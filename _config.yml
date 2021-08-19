@@ -99,14 +99,15 @@ plugins:
   - jekyll-seo-tag
 
 paginate: 9
-paginate_path: /page/:num
+paginate_path: /page/:num/
 
 # Pages Path
 defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /:output_ext
+      permalink: /:basename:output_ext
+
 
 
 include:
