@@ -12,6 +12,19 @@
             </div>
             <h3 class="footer__author-name">{{site.author.author__name}}</h3>
             <p class="footer__author-bio">{{site.author.author__bio}}</p>
+            
+            {% if site.mailchimp == "enable" %}
+            <div class="hero__subscribe">
+              <form class="subscribe-form validate"
+                action="{% if site.mailchimp__identifier %}//{{site.mailchimp__identifier}}{% else %}#{% endif %}" method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
+                <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
+                <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL"
+                  placeholder="{% if site.mailchimp__input__text %}{{ site.mailchimp__input__text }}{% else %}Email address{% endif %}">
+                <button class="button button--primary subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.mailchimp__button__text }}</button>
+              </form>
+            </div>
+            {% endif %}
+            
             {% if site.social %}
             <div class="social">
               <ul class="social__list list-reset">
@@ -27,24 +40,6 @@
           </div>
         </div>
 
-        {% if site.gallery %}
-        <div class="col col-6 push-1 col-d-12 push-d-0">
-          <div class="footer__gallery">
-            <h3 class="footer__gallery-title">{{ site.gallery.gallery__title }}</h3>
-            {% if site.gallery %}
-            <div class="gallery-footer">
-              <div class="gallery" style="grid-template-columns: repeat({{site.gallery.gallery__columns}}, auto);">
-                {% for image in site.gallery.gallery__images %}
-                <div class="gallery__image">
-                  <img src="{{site.baseurl}}{{image.url}}" alt="{{image.alt}}" loading="lazy">
-                </div>
-                {% endfor %}
-              </div>
-            </div>
-            {% endif %}
-          </div>
-        </div>
-        {% endif %}
 
       </div>
     </div>
