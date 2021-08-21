@@ -53,7 +53,7 @@ Usahakan untuk mendapatkan nama domain yang mudah diketik (jika bisa). Nama dom
 
 ### 6. Think Local
 
-Jika bisnis Anda bersifat lokal, maka pertimbangkan untuk menambahkan wilayah, kota, atau negara bagian Anda dalam nama domain (contoh: JogjaPrinting.com). Lakukan hanya jika itu masuk akal.
+Jika bisnis Anda bersifat lokal, maka pertimbangkan untuk menambahkan wilayah, kota, atau negara bagian Anda dalam nama domain (contoh: JogjaPrinting.com). Lakukan hanya jika itu memungkinkan.
 
 ### 7. Ekstensi Nama Domain
 
