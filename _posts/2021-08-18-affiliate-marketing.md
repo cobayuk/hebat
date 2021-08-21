@@ -43,6 +43,8 @@ Mari kita selidiki hubungan kompleks yang dimiliki ketiga pihak ini untuk memast
 
 Penjual, entah itu seorang pengusaha tunggal atau perusahaan besar, adalah vendor, pedagang, pencipta produk, atau pengecer dengan produk ke pasar. Produk tersebut dapat berupa benda fisik, seperti barang-barang rumah tangga, atau jasa, seperti tutorial make up.
 
+{% youtube -aQmy-OOwSM %}
+
 Juga dikenal sebagai merek, penjual tidak perlu secara aktif terlibat dalam pemasaran, tetapi mereka juga dapat menjadi pengiklan dan mendapat untung dari bagi hasil yang terkait dengan pemasaran afiliasi.
 
 Misalnya, penjual bisa menjadi pedagang e-niaga yang memulai bisnis dropshipping dan ingin menjangkau audiens baru dengan membayar situs web afiliasi untuk mempromosikan produk mereka. Atau penjual bisa menjadi perusahaan SaaS yang memanfaatkan afiliasi untuk membantu menjual perangkat lunak pemasaran mereka. 
@@ -50,6 +52,8 @@ Misalnya, penjual bisa menjadi pedagang e-niaga yang memulai bisnis dropshippin
 ### 2. Afiliasi atau penerbit.
 
 Juga dikenal sebagai penerbit, afiliasi dapat berupa individu atau perusahaan yang memasarkan produk penjual dengan cara yang menarik bagi calon konsumen. Dengan kata lain, afiliasi mempromosikan produk untuk meyakinkan konsumen bahwa produk itu berharga atau bermanfaat bagi mereka dan meyakinkan mereka untuk membeli produk tersebut. Jika konsumen akhirnya membeli produk, afiliasi menerima sebagian dari pendapatan yang dihasilkan.
+
+{% youtube wkvdrvwTrLo %}
 
 Afiliasi sering kali memiliki audiens yang sangat spesifik yang mereka pasarkan, umumnya mengikuti minat audiens tersebut. Ini menciptakan ceruk atau merek pribadi tertentu yang membantu afiliasi menarik konsumen yang kemungkinan besar akan bertindak berdasarkan promosi.
 
