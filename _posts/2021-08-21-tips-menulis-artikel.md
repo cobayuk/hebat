@@ -19,7 +19,7 @@ Ketika Anda mampu menulis dengan baik dan cukup cepat, Anda akan menemukan bahwa
 
 Berikut adalah 6 langkah yang akan membantu Anda meningkatkan kecepatan menulis Anda:
 
-## 1. Alokasikan waktu yang khusus dalam sehari yang dikhususkan untuk menulis tanpa syarat
+## 1. Alokasikan waktu khusus dalam sehari yang dikhususkan untuk menulis
 
 - Pilih bagian dari hari Anda di mana Anda biasanya merasa paling bersemangat dan fokus dan ketika Anda tidak akan terganggu. Sisihkan periode ini untuk menulis. Jika Anda tidak yakin waktu yang paling tepat untuk Anda, cobalah beberapa periode berbeda dan lihat mana yang paling efektif untuk Anda.
 
