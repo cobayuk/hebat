@@ -31,7 +31,7 @@ Saya tidak berpikir bahwa ada aturan keras tentang bagaimana nama domain harus d
 
 Gunakan kata kunci dalam nama domain yang menggambarkan situs Anda (jika memungkinkan). Nama domain harus menunjukkan sifat produk atau layanan Anda. Nama domain yang baik menggambarkan dengan tepat tentang apa situs tersebut.
 
-Penting bagi pengunjung untuk mendapatkan gambaran tentang situs web hanya dengan melihat nama domain. Misalnya, jika situs Anda tentang pakaian, cobalah untuk mendapatkan nama domain seperti “www.bajumurah.com” atau “www.hoodiestore.com" bukan “www.foobar.com”.
+Penting bagi pengunjung untuk mendapatkan gambaran tentang situs web hanya dengan melihat nama domain. Misalnya, jika situs Anda tentang pakaian, cobalah untuk mendapatkan nama domain seperti “bajumurah.com” atau “hoodiestore.com" bukan “foobar.com”.
 
 ### 2. Mudah Diingat
 
@@ -41,11 +41,11 @@ Nama domain harus mudah diingat karena pengunjung Anda akan ingin mengetikkan na
 
 Nama domain harus pendek dengan kurang dari 10 karakter. Ini juga membantu poin "Mudah diingat" ketika namanya pendek. Meskipun, hari ini sangat sulit untuk mendapatkan nama domain yang pendek.
 
-Pada dasarnya Anda tidak ingin berakhir dengan nama domain yang sangat panjang seperti “www.thisisareallybadexampleofdomainname.com”. Ketika nama menjadi terlalu panjang akan membingungkan dan nama dapat dengan mudah salah ketik di browser.
+Pada dasarnya Anda tidak ingin berakhir dengan nama domain yang sangat panjang seperti "thisisareallybadexampleofdomainname.com”. Ketika nama menjadi terlalu panjang akan membingungkan dan nama dapat dengan mudah salah ketik di browser.
 
 ### 4. Gunakan Tanda Hubung Jika Diperlukan
 
-Gunakan tanda hubung (-) di antara kata-kata jika diperlukan untuk nama domain Anda. Jika "www.domainname.com" diambil maka Anda dapat mencoba "www.domain-name.com". Menggunakan tanda hubung di antara kata terkadang membantu meningkatkan keterbacaan. Ini juga dapat membantu dalam peringkat mesin pencari.
+Gunakan tanda hubung (-) di antara kata-kata jika diperlukan untuk nama domain Anda. Jika "domainname.com" diambil maka Anda dapat mencoba "domain-name.com". Menggunakan tanda hubung di antara kata terkadang membantu meningkatkan keterbacaan. Ini juga dapat membantu dalam peringkat mesin pencari.
 
 ### 5. Mudah mengetik
 
