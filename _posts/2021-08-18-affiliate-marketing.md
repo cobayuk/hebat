@@ -1,10 +1,9 @@
 ---
 layout: post
 tags: [Internet Marketing]
-#date: 2021-08-15 13:14:15
-#image: 'https://www.bigcommerce.com/blog/wp-content/uploads/2018/07/anete-lusina-609857-unsplash.jpg'
-#description:Pemasaran afiliasi adalah taktik populer untuk mendorong penjualan dan menghasilkan pendapatan online yang signifikan. 
-#permalink:
+date: 2021-08-15 13:14:15
+image: 'https://www.bigcommerce.com/blog/wp-content/uploads/2018/07/anete-lusina-609857-unsplash.jpg'
+description: Pemasaran afiliasi adalah taktik populer untuk mendorong penjualan dan menghasilkan pendapatan online yang signifikan. 
 title: 'Affiliate Marketing pada tahun 2021: Pengertian dan Tips Suksesnya'
 ---
 
