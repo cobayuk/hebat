@@ -73,6 +73,6 @@ Jika bisnis Anda didasarkan pada produk atau layanan, gunakan _namabisnisanda.co
 
 - **Hindari Masalah Hak Cipta**: Pastikan nama yang akan Anda gunakan tidak memiliki hak cipta.
 
-- **Waspadalah terhadap scammer**: Ada banyak scammer di sekitar, jadi pastikan Anda membeli nama domain dari pendaftar yang ada dalam daftar registrar terakreditasi ICANN (Internet Corporation for Assigned Names and Numbers) .
+- **Waspadalah terhadap scammer**: Ada banyak scammer di sekitar, jadi pastikan Anda membeli nama domain dari [pendaftar yang ada dalam daftar registrar terakreditasi ICANN](https://www.icann.org/registrar-reports/accredited-list.html) (Internet Corporation for Assigned Names and Numbers) .
 
 Seperti yang telah saya sebutkan sebelumnya bahwa aturan-aturan ini tidaklah baku. Jangan takut untuk menambahkan kreasi Anda sendiri. Cobalah yang terbaik dan menjadi kreatif. Apa Anda memiliki tips terbaik lainnya dalam memilih nama domain yang bagus? Jangan ragu untuk meninggalkan saran atau komentar Anda di bawah ini.
