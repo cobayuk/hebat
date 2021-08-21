@@ -41,13 +41,13 @@ Nama domain harus mudah diingat karena pengunjung Anda akan ingin mengetikkan na
 
 Nama domain harus pendek dengan kurang dari 10 karakter. Ini juga membantu poin "Mudah diingat" ketika namanya pendek. Meskipun, hari ini sangat sulit untuk mendapatkan nama domain yang pendek.
 
-Pada dasarnya Anda tidak ingin berakhir dengan nama domain yang sangat panjang seperti "thisisareallybadexampleofdomainname.com”. Ketika nama menjadi terlalu panjang akan membingungkan dan nama dapat dengan mudah salah ketik di browser.
+Pada dasarnya Anda tidak ingin berakhir dengan nama domain yang sangat panjang seperti "reallybadexampleofdomainname.com”. Ketika nama menjadi terlalu panjang akan membingungkan dan nama dapat dengan mudah salah ketik di browser.
 
 ### 4. Gunakan Tanda Hubung Jika Diperlukan
 
 Gunakan tanda hubung (-) di antara kata-kata jika diperlukan untuk nama domain Anda. Jika "domainname.com" diambil maka Anda dapat mencoba "domain-name.com". Menggunakan tanda hubung di antara kata terkadang membantu meningkatkan keterbacaan. Ini juga dapat membantu dalam peringkat mesin pencari.
 
-### 5. Mudah mengetik
+### 5. Mudah Diketik
 
 Usahakan untuk mendapatkan nama domain yang mudah diketik (jika bisa). Nama domain yang mudah diketik bagus untuk branding.
 
@@ -61,7 +61,7 @@ Usahakan sebisa mungkin untuk mendapatkan ekstensi Top Level Domain (TLD) “.
 
 Ketika orang berpikir tentang sebuah situs web, pikiran mereka secara otomatis membayangkan "nama-domain.com" sebagai alamatnya. Anda juga dapat menggunakan ekstensi ".net" dan ".org" jika Anda tidak dapat menemukan ekstensi ".com".
 
-## Haruskah Anda Menggunakan YourName.com atau YourBusinessName.com?
+## Haruskah Menggunakan YourName.com atau YourBusinessName.com?
 
 Jika komoditas utama bisnis Anda adalah **diri anda sendiri** maka gunakan _namaanda.com_ sebagai nama domain Anda. Ini bekerja dengan baik jika Anda seorang penulis, pembicara, pelatih, dll.
 
