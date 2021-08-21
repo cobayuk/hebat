@@ -2,6 +2,7 @@
 layout: post
 tags: [Internet Marketing]
 date: 2021-08-15 13:14:15
+youtubeId: wkvdrvwTrLo
 image: 'https://www.bigcommerce.com/blog/wp-content/uploads/2018/07/anete-lusina-609857-unsplash.jpg'
 description: Pemasaran afiliasi adalah taktik populer untuk mendorong penjualan dan menghasilkan pendapatan online yang signifikan. 
 title: 'Affiliate Marketing pada tahun 2021: Pengertian dan Tips Suksesnya'
@@ -53,7 +54,7 @@ Misalnya, penjual bisa menjadi pedagang e-niaga yang memulai bisnis dropshippin
 
 Juga dikenal sebagai penerbit, afiliasi dapat berupa individu atau perusahaan yang memasarkan produk penjual dengan cara yang menarik bagi calon konsumen. Dengan kata lain, afiliasi mempromosikan produk untuk meyakinkan konsumen bahwa produk itu berharga atau bermanfaat bagi mereka dan meyakinkan mereka untuk membeli produk tersebut. Jika konsumen akhirnya membeli produk, afiliasi menerima sebagian dari pendapatan yang dihasilkan.
 
-{% youtube wkvdrvwTrLo %}
+{% include youtubePlayer.html id=page.wkvdrvwTrLo %}
 
 Afiliasi sering kali memiliki audiens yang sangat spesifik yang mereka pasarkan, umumnya mengikuti minat audiens tersebut. Ini menciptakan ceruk atau merek pribadi tertentu yang membantu afiliasi menarik konsumen yang kemungkinan besar akan bertindak berdasarkan promosi.
 
