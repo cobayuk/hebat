@@ -44,8 +44,6 @@ Mari kita selidiki hubungan kompleks yang dimiliki ketiga pihak ini untuk memast
 
 Penjual, entah itu seorang pengusaha tunggal atau perusahaan besar, adalah vendor, pedagang, pencipta produk, atau pengecer dengan produk ke pasar. Produk tersebut dapat berupa benda fisik, seperti barang-barang rumah tangga, atau jasa, seperti tutorial make up.
 
-{% youtube -aQmy-OOwSM %}
-
 Juga dikenal sebagai merek, penjual tidak perlu secara aktif terlibat dalam pemasaran, tetapi mereka juga dapat menjadi pengiklan dan mendapat untung dari bagi hasil yang terkait dengan pemasaran afiliasi.
 
 Misalnya, penjual bisa menjadi pedagang e-niaga yang memulai bisnis dropshipping dan ingin menjangkau audiens baru dengan membayar situs web afiliasi untuk mempromosikan produk mereka. Atau penjual bisa menjadi perusahaan SaaS yang memanfaatkan afiliasi untuk membantu menjual perangkat lunak pemasaran mereka. 
