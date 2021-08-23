@@ -2,7 +2,7 @@
 layout: post
 tags: [wordpress]
 date: 2021-08-20 13:14:15
-image: '/images/07.jpg'
+image: '/images/writing.jpeg'
 description: Jika Anda seorang blogger yang ingin mencari penghasilan dari blog Anda, maka keterampilan...
 title: '6 Tips Untuk Menulis Artikel Blog Lebih Cepat'
 ---
