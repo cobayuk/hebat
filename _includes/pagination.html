@@ -8,7 +8,7 @@
 
           <div class="pagination__list">
             {% if paginator.previous_page %}
-              <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination__prev pagination__item"><i class="ion ion-ios-arrow-back"></i> Prev</a>
+              <a href="{{ paginator.previous_page_path }}" class="pagination__prev pagination__item"><i class="ion ion-ios-arrow-back"></i> Prev</a>
             {% else %}
               <span class="pagination__prev pagination__item disabled"><i class="ion ion-ios-arrow-back"></i> Prev</span>
             {% endif %}
