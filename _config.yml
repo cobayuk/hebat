@@ -73,14 +73,8 @@ plugins:
   - jekyll-seo-tag
 
 # Pagination Settings
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/page/:num/'
-  title: ' - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+paginate: 9
+paginate_path: /page/:num
 
 # Pages Path
 defaults:
