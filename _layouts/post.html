@@ -5,17 +5,6 @@ layout: default
 <div class="post-head">
   <div class="container">
     <div class="row">
-      
-          {% if page.tags.size >= 1 %}
-            <div class="post__tags">
-              {% for tag in page.tags %}
-                <a href="{{ site.baseurl }}/tags#{{ tag }}" class="post__tag">{{ tag }}</a>
-              {% endfor %}
-            </div>
-          {% endif %}
-  
-          <h1 class="post__title">{{ page.title | escape }}</h1>
-  
 
       {% if page.video_embed %}
       <div class="col col-12">
@@ -40,6 +29,16 @@ layout: default
       {% if page.video_embed %} {% assign videoInfo = 'post__info-video' %} {% endif %}
       <div class="col {% if page.video_embed %}col-12{% else %}col-6 col-d-12{% endif %}">
         <div class="post__info {{videoInfo}}">
+
+          {% if page.tags.size >= 1 %}
+            <div class="post__tags">
+              {% for tag in page.tags %}
+                <a href="{{ site.baseurl }}/tags#{{ tag }}" class="post__tag">{{ tag }}</a>
+              {% endfor %}
+            </div>
+          {% endif %}
+  
+          <h1 class="post__title">{{ page.title | escape }}</h1>
   
           <div class="post__meta">
             <a href="{{site.baseurl}}/about/" class="post__author-image">
