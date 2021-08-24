@@ -11,9 +11,9 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Author Settings
 author:
-  author__name: Kevin Angga
+  author__name: SEODev
   author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  author__avatar: '/images/avatar.svg'
+  author__avatar: '/favicon.ico'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -29,7 +29,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Kevin Angga
+  hero__title: SEODev
   hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
 
 
