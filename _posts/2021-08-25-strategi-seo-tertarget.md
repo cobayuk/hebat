@@ -21,7 +21,7 @@ Menggunakan long-tail keyword (kata kunci berekor panjang) di judul posting blog
 
 Posting blog secara alami dapat menentukan peringkat berdasarkan relevansi topikalnya seperti yang terlihat oleh mesin pencari, dan memanfaatkan kata kunci persaingan rendah akan membuat peringkat halaman Anda di halaman teratas SERP dalam waktu singkat, yang berarti lebih banyak lalu lintas organik ke situs Anda.
 
-## 2. Menargetkan 3 -5 kata kunci untuk setiap halaman di situs Anda
+## 2. Menargetkan 3 - 5 kata kunci untuk setiap halaman di situs Anda
 
 Membuat halaman atau posting blog Anda dengan maksud memberi peringkat untuk lebih dari 2 kata kunci selalu merupakan langkah yang cerdas, karena ini akan memungkinkan situs Anda untuk menarik lebih banyak lalu lintas yang relevan sepanjang prosesnya.
 
