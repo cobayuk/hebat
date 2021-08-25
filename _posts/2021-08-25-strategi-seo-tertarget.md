@@ -2,7 +2,7 @@
 layout: post
 tags: [SEO]
 date: 2021-08-24 13:14:15
-image: 'https://ioeti.org/wp-content/uploads/2020/03/shutterstock_570194635-1024x633.jpg'
+image: '/images/seo.jpg'
 description: Mengembangkan strategi SEO yang dapat mengarahkan lalu lintas...
 title: '6 Strategi SEO yang Dapat Menghasilkan Traffic yang Sangat Bertarget'
 ---
