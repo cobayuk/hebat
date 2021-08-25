@@ -135,7 +135,7 @@ Singkatnya, pastikan bahwa semua konten yang Anda hasilkan ditulis untuk manusia
 
 Metadata adalah judul dan baris teks yang muncul di halaman hasil pencarian.
 
-Misalnya, jika Anda Google "siapa yang membunuh suami Carol Baskin", inilah metadata yang akan Anda lihat:
+Misalnya, jika Anda mengetik di Google "plugin SEO terbaik", inilah metadata yang akan Anda lihat:
 
 ![contoh metadata](/images/metadata.jpg)
 
@@ -280,7 +280,6 @@ Setiap profesional SEO akan senang menemukan formula ajaib yang meroketkan situs
 Sayangnya, SEO tidak bekerja seperti itu.
 
 Ada aturan dan praktik terbaik, tetapi inti dari SEO adalah tentang mencari tahu apa yang berhasil untuk situs atau klien Anda dan kemudian mengubahnya ketika itu mulai tidak bekerja.
-
 
 Saran terakhir saya adalah ini:
 - Awasi pesaing Anda dengan cermat.
