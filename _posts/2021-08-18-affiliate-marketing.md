@@ -3,7 +3,7 @@ layout: post
 tags: [Internet Marketing]
 date: 2021-08-15 13:14:15
 youtubeId: PByxQRBLUKk
-image: '/images/01.jpg'
+image: '/images/affiliate-marketing.png'
 description: Pemasaran afiliasi adalah taktik populer untuk mendorong penjualan dan menghasilkan pendapatan online yang signifikan. 
 title: 'Affiliate Marketing pada tahun 2021: Pengertian dan Tips Suksesnya'
 ---
