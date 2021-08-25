@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [SEO]
-date: 2021-08-25 13:14:15
+date: 2021-08-24 13:14:15
 image: '/images/seo.jpg'
 description: SEO adalah proses membuat peringkat situs Anda setinggi mungkin di Google ketika seseorang...
 title: 'Apa itu SEO & Bagaimana Cara Kerjanya'
