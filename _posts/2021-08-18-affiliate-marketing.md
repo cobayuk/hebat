@@ -25,9 +25,6 @@ Pemasaran afiliasi adalah taktik populer untuk mendorong penjualan dan menghasil
 
 ## Apa itu Pemasaran Afiliasi?
 
-{% include youtubePlayer.html id=page.youtubeId %}
-
-
 Afiliasi pemasaran adalah proses dimana afiliasi mendapatkan komisi untuk pemasaran produk orang lain atau perusahaan. Afiliasi hanya mencari produk yang mereka sukai, kemudian mempromosikan produk itu dan mendapatkan sebagian keuntungan dari setiap penjualan yang mereka lakukan. Penjualan dilacak melalui tautan afiliasi dari satu situs web ke situs lainnya. 
 
 ![](https://www.bigcommerce.com/blog/wp-content/uploads/2018/07/how-affiliate-marketing-works1.png)
