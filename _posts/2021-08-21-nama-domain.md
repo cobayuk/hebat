@@ -2,7 +2,7 @@
 layout: post
 tags: [wordpress]
 date: 2021-08-20 13:14:15
-image: '/images/04.jpg'
+image: '/images/domain.jpg'
 description: Hal pertama yang terlintas dalam pikiran saya ketika membuat blog adalah mendapatkan nama domain yang bagus...
 title: 'Tips Menemukan Nama Domain yang Bagus Untuk Blog Anda'
 ---
