@@ -2,7 +2,7 @@
 layout: post
 tags: [wordpress]
 date: 2021-08-24 10:14:15
-image: '/images/headline.jpg'
+image: '/images/headline.jpeg'
 description: Pakar copy-writing mengatakan bahwa orang 5 kali lebih banyak membaca...
 title: 'Tips Menulis Judul Headline Artikel dan Landing Page yang Menarik'
 ---
