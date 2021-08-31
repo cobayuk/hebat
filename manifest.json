@@ -1,0 +1,24 @@
+{
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "masukstan.my",
+  "short_name": "masukstan.my",
+  "start_url": "/",
+  "scope": "/",
+  "lang": "en",
+  "description": "Tempat belajar terbaik untuk persiapan masuk perguruan tinggi kedinasan",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://mobilekit.bragherstudio.com/view7/assets/img/favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://mobilekit.bragherstudio.com/view7/assets/img/icon/192x192.png",
+      "sizes": "180x180"
+    }
+  ],
+  "orientation": "any"
+}
